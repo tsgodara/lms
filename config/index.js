@@ -1,5 +1,3 @@
-/* eslint-disable global-require, import/no-dynamic-require */
-
 'use strict'
 
 // load .env in local development
