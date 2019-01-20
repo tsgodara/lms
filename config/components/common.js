@@ -16,6 +16,6 @@ if (error) {
 
 const config = {
   env: envVars.NODE_ENV
-}
+}  
 
 module.exports = config

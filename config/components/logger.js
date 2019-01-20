@@ -31,6 +31,6 @@ const config = {
 winston.level = config.logger.level
 if (!config.logger.enabled) {
   winston.remove(winston.transports.Console)
-}
+} 
 
 module.exports = config
